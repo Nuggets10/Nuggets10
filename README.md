@@ -7,3 +7,4 @@ I'm a beginner developer currently learning Python. I'm familiar with Unity game
 - 📫 Here you can find me on other platforms: https://linktr.ee/Nuggets10 <img alt="Static Badge" src="https://img.shields.io/badge/LeetCode-yellow?logo=leetcode&logoColor=black">
 
 <a href="https://stackoverflow.com/users/29285442/nuggets"><img src="https://stackoverflow.com/users/flair/29285442.png" width="208" height="58" alt="profile for Nuggets at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Nuggets at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={Nuggets10}&theme=black" alt="LeetCode Badges"/>
