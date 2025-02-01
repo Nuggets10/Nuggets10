@@ -14,6 +14,6 @@ src="https://leetcode-badge-showcase.vercel.app/api?username={Nuggets10}&theme=b
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nuggets10&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nuggets10&show_icons=true&theme=highcontrast)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuggets10&layout=compact&theme=highcontrast)
