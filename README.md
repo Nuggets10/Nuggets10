@@ -18,8 +18,7 @@ src="https://leetcode-badge-showcase.vercel.app/api?username={Nuggets10}&theme=b
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuggets10&layout=compact&theme=highcontrast)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nuggets10)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nuggets10&theme=highcontrast)](https://git.io/streak-stats)
 
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Nuyggets10)
 
 
