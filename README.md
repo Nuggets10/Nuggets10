@@ -20,5 +20,7 @@ src="https://leetcode-badge-showcase.vercel.app/api?username={Nuggets10}&theme=b
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Nuggets10&theme=highcontrast)](https://git.io/streak-stats)
 
+[![An image of @nuggets10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nuggets10)](https://holopin.io/@nuggets10)
+
 
 
