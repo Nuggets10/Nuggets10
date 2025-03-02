@@ -11,7 +11,7 @@
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nuggets10&show_icons=true&theme=highcontrast)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nuggets10&show_icons=true&theme=highcontrast&show)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuggets10&layout=compact&theme=highcontrast)
 
