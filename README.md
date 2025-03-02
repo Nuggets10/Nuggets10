@@ -1,6 +1,6 @@
 # 👨‍💻 | **Who am I**
 
-👋 Hey! I'm a beginner developer learning code just for fun
+👋 Hey! I'm a beginner developer learning coding just for fun
 
 - 🟩 **Programming languages**: <img alt="Static Badge" src="https://img.shields.io/badge/C%23-purple?logo=sharp&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/Python-yellow?logo=python&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-Red?logo=kotlin&logoColor=%23ffffff%20&color=%23ff0000%20">
 - 🧑‍💻 **Softwares**: <img alt="Static Badge" src="https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/Android_Studio-brightgreen?logo=androidstudio&logoColor=white">
