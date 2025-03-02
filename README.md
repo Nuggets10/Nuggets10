@@ -6,7 +6,7 @@
 - 🧑‍💻 **Softwares**: <img alt="Static Badge" src="https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/Android_Studio-brightgreen?logo=androidstudio&logoColor=white">
 - 📫 **Link to other platforms**: https://linktr.ee/Nuggets10 <img alt="Static Badge" src="https://img.shields.io/badge/LeetCode-yellow?logo=leetcode&logoColor=black">
 
-### 📈 **Stats**
+# 📈 | **Stats**
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nuggets10&show_icons=true&theme=highcontrast&show&rank_icon=percentile&width=75" />
 </a>
