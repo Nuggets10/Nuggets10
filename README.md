@@ -11,7 +11,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nuggets10&show_icons=true&theme=highcontrast&show&rank_icon=percentile&width=75" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuggets10&layout=compact&langs_count=20&card_width=25&theme=highcontrast" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuggets10&layout=compact&langs_count=20&card_width=0&theme=highcontrast&size_weight=0.5&count_weight=0.5" />
 </a>
 
 <a href="https://git.io/streak-stats">
