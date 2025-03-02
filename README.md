@@ -8,17 +8,17 @@
 
 ### 📈 **Stats**
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nuggets10&show_icons=true&theme=highcontrast&show&rank_icon=percentile&width=150" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nuggets10&show_icons=true&theme=highcontrast&show&rank_icon=percentile&width=75" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuggets10&layout=compact&langs_count=20&card_width=50&theme=highcontrast" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuggets10&layout=compact&langs_count=20&card_width=25&theme=highcontrast" />
 </a>
 
 <a href="https://git.io/streak-stats">
   <img height=250 align="center" src="https://streak-stats.demolab.com/?user=Nuggets10&theme=highcontrast&card_width=187" />
 </a>
 <a href="https://leetcode.com/Nuggets10">
-  <img height=250 align="center" src="https://leetcard.jacoblin.cool/Nuggets10?ext=activity&width=387" />
+  <img height=250 align="center" src="https://leetcard.jacoblin.cool/Nuggets10?ext=activity&width=487" />
 </a>
 
 [![An image of @nuggets10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nuggets10)](https://holopin.io/@nuggets10)
