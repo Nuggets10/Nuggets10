@@ -18,7 +18,7 @@
   <img height=250 align="center" src="https://streak-stats.demolab.com/?user=Nuggets10&theme=highcontrast&card_width=187" />
 </a>
 <a href="https://leetcode.com/Nuggets10">
-  <img height=250 align="center" src="https://leetcard.jacoblin.cool/Nuggets10?ext=activity&width=487" />
+  <img height=250 align="center" src="https://leetcard.jacoblin.cool/Nuggets10?ext=activity&width=687" />
 </a>
 
 [![An image of @nuggets10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nuggets10)](https://holopin.io/@nuggets10)
