@@ -1,10 +1,5 @@
-# 👨‍💻 | **Who am I**
-
-👋 Hey! I'm a beginner developer learning coding just for fun
-
-- 🟩 **Programming languages**: <img alt="Static Badge" src="https://img.shields.io/badge/C%23-purple?logo=sharp&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?logo=python&logoSize=auto&logoColor=yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-Red?logo=kotlin&logoColor=%23ffffff%20&color=%23ff0000%20">
-- 🧑‍💻 **Softwares**: <img alt="Static Badge" src="https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white&logoSize=auto"> <img alt="Static Badge" src="https://img.shields.io/badge/Android_Studio-brightgreen?logo=androidstudio&logoColor=white">
-- 📫 **Link to other platforms**: https://linktr.ee/Nuggets10 <img alt="Static Badge" src="https://img.shields.io/badge/LeetCode-yellow?logo=leetcode&logoColor=black">
+# 📚 | **Tech Stack**
+<img alt="Static Badge" src="https://img.shields.io/badge/C%23-purple?logo=sharp&logoColor=white&logoSize=auto&style=for-the-badge" height=30> <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?logo=python&logoSize=auto&logoColor=ffdd54&style=for-the-badge" height=30> <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-Red?logo=kotlin&logoColor=%23ffffff%20&color=%23ff0000%20&style=for-the-badge" height=30><img alt="Static Badge" src="https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white&logoSize=auto&style=for-the-badge" height=30> <img alt="Static Badge" src="https://img.shields.io/badge/Android_Studio-brightgreen?logo=androidstudio&logoColor=white&style=for-the-badge" height=30>
 
 # 📈 | **Stats**
 <a href="https://github.com/anuraghazra/github-readme-stats">
