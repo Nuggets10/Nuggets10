@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/df2a23da-5da2-446e-8a72-c36da258c7eb)
 # 📚 | **Tech Stack**
 ---
 Programming languages:
