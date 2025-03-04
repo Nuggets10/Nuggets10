@@ -1,12 +1,15 @@
 ![Image](https://github.com/user-attachments/assets/df2a23da-5da2-446e-8a72-c36da258c7eb)
+
 # 📚 | **Tech Stack**
----
+
 Programming languages:
----
+![Image](https://github.com/user-attachments/assets/830f5cd1-02d4-4ae3-84f2-a727dbd73743)
+
 <img alt="Static Badge" src="https://img.shields.io/badge/C%23-purple?logo=sharp&logoColor=white&logoSize=auto&style=for-the-badge" height=30><img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?logo=python&logoSize=auto&logoColor=ffdd54&style=for-the-badge" height=30> <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-Red?logo=kotlin&logoColor=%23ffffff%20&color=%23ff0000%20&style=for-the-badge" height=30>
 
 Softwares and more:
----
+![Image](https://github.com/user-attachments/assets/830f5cd1-02d4-4ae3-84f2-a727dbd73743)
+
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
@@ -20,7 +23,7 @@ Softwares and more:
 
 
 # 📈 | **Stats**
----
+
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nuggets10&show_icons=true&theme=highcontrast&show&rank_icon=percentile&width=75" />
 
 <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuggets10&layout=compact&langs_count=20&card_width=1&theme=highcontrast&size_weight=0.5&count_weight=0.5" />
