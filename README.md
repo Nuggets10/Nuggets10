@@ -24,9 +24,11 @@ Softwares and more:
 
 # 📈 | **Stats**
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nuggets10&show_icons=true&theme=highcontrast&show&rank_icon=percentile&width=75" />
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Nuggets10&show_icons=true&theme=highcontrast&show&rank_icon=percentile" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuggets10&layout=compact&langs_count=20&card_width=1&theme=highcontrast&size_weight=0.5&count_weight=0.5" />
+</p>
 
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuggets10&layout=compact&langs_count=20&card_width=1&theme=highcontrast&size_weight=0.5&count_weight=0.5" />
 
 <a href="https://git.io/streak-stats">
   <img height=250 align="center" src="https://streak-stats.demolab.com/?user=Nuggets10&theme=highcontrast&card_width=187" />
