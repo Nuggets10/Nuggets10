@@ -38,7 +38,5 @@ Softwares and more:
   <img height=250 align="center" src="https://leetcard.jacoblin.cool/Nuggets10?ext=activity&width=687" />
 </a>
 
-[![An image of @nuggets10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nuggets10)](https://holopin.io/@nuggets10)
-
 
 
