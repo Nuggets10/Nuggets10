@@ -35,7 +35,7 @@ Softwares and more:
   <img height=250 align="center" src="https://streak-stats.demolab.com/?user=Nuggets10&theme=highcontrast&card_width=187" />
 </a>
 <a href="https://leetcode.com/Nuggets10">
-  <img height=250 align="center" src="https://leetcard.jacoblin.cool/Nuggets10?ext=activity&width=687" />
+  <img height=250 align="center" src="https://leetcard.jacoblin.cool/Nuggets10?ext=activity&width=700" />
 </a>
 
 
