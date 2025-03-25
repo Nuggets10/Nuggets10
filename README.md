@@ -32,7 +32,7 @@ Softwares and more:
 
 
 <a href="https://git.io/streak-stats">
-  <img height=250 align="center" src="https://streak-stats.demolab.com/?user=Nuggets10&theme=highcontrast&card_width=200" />
+  <img src="https://streak-stats.demolab.com?user=Nuggets10&theme=gruvbox&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </a>
 <a href="https://leetcode.com/Nuggets10">
   <img height=250 align="center" src="https://leetcard.jacoblin.cool/Nuggets10?ext=activity&width=700" />
