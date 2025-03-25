@@ -29,14 +29,10 @@ Softwares and more:
   <img height="174" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuggets10&layout=compact&langs_count=20&card_width=200&theme=gruvbox&size_weight=0.5&count_weight=0.5" />
 </p>
 
-
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Nuggets10&theme=gruvbox&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</a>
-<a href="https://leetcode.com/Nuggets10">
-  <img height=250 align="center" src="https://leetcard.jacoblin.cool/Nuggets10?ext=activity&width=700" />
-</a>
+<p align="center">
+  <img height=174 src="https://github-readme-streak-stats-eight.vercel.app/?user=Nuggets10&theme=gruvbox&card_width=480" alt="GitHub Streak" />
+  <img height=174 src="https://leetcard.jacoblin.cool/Nuggets10?ext=activity&width=930" />
+</p>
 
 
 
