@@ -5,7 +5,7 @@
 Programming languages:
 ![Image](https://github.com/user-attachments/assets/830f5cd1-02d4-4ae3-84f2-a727dbd73743)
 
-<img alt="Static Badge" src="https://img.shields.io/badge/C%23-purple?logo=sharp&logoColor=white&logoSize=auto&style=for-the-badge" height=30><img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?logo=python&logoSize=auto&logoColor=ffdd54&style=for-the-badge" height=30> <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-Red?logo=kotlin&logoColor=%23ffffff%20&color=%23ff0000%20&style=for-the-badge" height=30>
+<img alt="Static Badge" src="https://img.shields.io/badge/C%23-purple?logo=sharp&logoColor=white&logoSize=auto&style=for-the-badge" height=30><img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?logo=python&logoSize=auto&logoColor=ffffff&style=for-the-badge" height=30> <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-Red?logo=kotlin&logoColor=%23ffffff%20&color=%23ff0000%20&style=for-the-badge" height=30>
 
 Softwares and more:
 ![Image](https://github.com/user-attachments/assets/830f5cd1-02d4-4ae3-84f2-a727dbd73743)
