@@ -30,7 +30,7 @@ Softwares and more:
 </p>
 
 <p align="center">
-  <img height=174 src="https://github-readme-streak-stats-eight.vercel.app/?user=Nuggets10&theme=gruvbox&card_width=480&border=f5d520&stroke=f5d520&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&sideLabels=f5d520&currStreakLabel=f5d520&fire=f5d520&fireRing=f5d520" alt="GitHub Streak" />
+  <img height=174 src="https://github-readme-streak-stats-eight.vercel.app/?user=Nuggets10&theme=gruvbox&card_width=480&border=f5d520&stroke=f5d520&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&sideLabels=f5d520&currStreakLabel=f5d520&fire=f5d520&ring=f5d520" alt="GitHub Streak" />
   <img height=174 src="https://leetcard.jacoblin.cool/Nuggets10?ext=activity&width=930" />
 </p>
 
