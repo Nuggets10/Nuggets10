@@ -34,11 +34,10 @@ Softwares and more:
 
 <p align="center">
   <img height="174" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuggets10&langs_count=20&card_width=800&theme=gruvbox&size_weight=0.5&count_weight=0.5&text_color=ffffff&title_color=f5d520&border_color=f5d520" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nuggets10&theme=gruvbox&rank=S,AAA,AA,A,B,C&column=-1" alt="GitHub Trophy"/>
 </p>
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Nuggets10.png)
 
 
 
