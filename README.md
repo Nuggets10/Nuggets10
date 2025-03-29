@@ -34,16 +34,6 @@ Softwares and more:
   <img src="https://github-profile-trophy.vercel.app/?username=Nuggets10&theme=gruvbox&rank=S,AAA,AA,A,B,C&column=-1" alt="GitHub Trophy"/>
 </p>
 
-# 📱 | Social
-
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Nuggets10.png" alt="TryHackMe Badge">
-  <a href="https://github.com/johannchopin/stackoverflow-readme-profile">
-    <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/29285442?theme=dark&website=true&location=true" alt="user:29285442's SO profile">
-  </a>
-  <img src="https://leetcode-badge-sage.vercel.app/badge/Nuggets10?theme=dark&bgColor=282828" alt="Leetcode Stats">
-</p>
-
 
 
 
