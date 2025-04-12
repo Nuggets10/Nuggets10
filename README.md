@@ -6,6 +6,7 @@ Programming languages:
 ![Image](https://github.com/user-attachments/assets/830f5cd1-02d4-4ae3-84f2-a727dbd73743)
 
 <img alt="Static Badge" src="https://img.shields.io/badge/C%23-purple?logo=sharp&logoColor=white&logoSize=auto&style=for-the-badge" height=30><img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?logo=python&logoSize=auto&logoColor=ffffff&style=for-the-badge" height=30> <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-Red?logo=kotlin&logoColor=%23ffffff%20&color=%23ff0000%20&style=for-the-badge" height=30>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 Softwares and more:
 ![Image](https://github.com/user-attachments/assets/830f5cd1-02d4-4ae3-84f2-a727dbd73743)
@@ -24,6 +25,7 @@ Softwares and more:
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)
 ![KaliLinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # 📈 | **Stats**
 
