@@ -9,7 +9,7 @@ Programming languages:
 
 Softwares and tools:
 ![Image](https://github.com/user-attachments/assets/830f5cd1-02d4-4ae3-84f2-a727dbd73743)
-![Arduino](https://img.shields.io/badge/-ESP32-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <img alt="Static Badge" src="https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white&logoSize=auto&style=for-the-badge" height=30> 
 <img alt="Static Badge" src="https://img.shields.io/badge/Android_Studio-brightgreen?logo=androidstudio&logoColor=white&style=for-the-badge" height=30>
