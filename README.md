@@ -35,6 +35,10 @@ Softwares, tools & websites:
   <img src="https://github-profile-trophy.vercel.app/?username=Nuggets10&theme=gruvbox&rank=S,AAA,AA,A,B,C&column=-1" alt="GitHub Trophy"/>
 </p>
 
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Nuggets10&animated=true&theme=onedark" alt="LeetCode Badges" />
+</p>
+
 
 
 
