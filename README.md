@@ -36,7 +36,7 @@ Softwares, tools & websites:
 </p>
 
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Nuggets10&animated=true&theme=onedark" alt="LeetCode Badges" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Nuggets10&animated=false&theme=onedark" alt="LeetCode Badges" />
 </p>
 
 
