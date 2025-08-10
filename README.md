@@ -31,7 +31,7 @@ Softwares, tools & websites:
 <p align="center">
   <img height="174" src="https://github-readme-stats.vercel.app/api?username=Nuggets10&show_icons=true&theme=gruvbox&show&rank_icon=percentile&text_color=ffffff&title_color=f5d520&icon_color=f5d520&border_color=f5d520" />
   <img height=174 src="https://github-readme-streak-stats-eight.vercel.app/?user=Nuggets10&theme=gruvbox&card_width=460&border=f5d520&stroke=f5d520&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&sideLabels=f5d520&currStreakLabel=f5d520&fire=f5d520&ring=f5d520" alt="GitHub Streak" />
-  <img height="348" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuggets10&layout=compact&langs_count=10&card_width=830&theme=gruvbox&size_weight=0.5&count_weight=0.5&text_color=ffffff&title_color=f5d520&border_color=f5d520" />
+  <img height="348" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuggets10&layout=compact&langs_count=20&card_width=830&theme=gruvbox&size_weight=0.5&count_weight=0.5&text_color=ffffff&title_color=f5d520&border_color=f5d520" />
   <img src="https://github-profile-trophy.vercel.app/?username=Nuggets10&theme=gruvbox&rank=S,AAA,AA,A,B,C&column=-1" alt="GitHub Trophy"/>
 </p>
 
