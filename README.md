@@ -23,8 +23,7 @@
 
 <p align="center">
   <img height="174" src="https://github-readme-stats.vercel.app/api?username=Nuggets10&show_icons=true&theme=gruvbox&show&rank_icon=percentile&text_color=ffffff&title_color=f5d520&icon_color=f5d520&border_color=f5d520" />
-  <img height=174 src="https://leetcode-stats.vercel.app/api?username=Nuggets10&theme=Dark" alt="GitHub Streak" />
-  <img height="348" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuggets10&layout=compact&langs_count=18&card_width=830&theme=gruvbox&size_weight=0.5&count_weight=0.5&text_color=ffffff&title_color=f5d520&border_color=f5d520" />
+  <img height=164 src="https://leetcode-stats.vercel.app/api?username=Nuggets10&theme=Dark" alt="GitHub Streak" />
 </p>
 
 
