@@ -1,5 +1,3 @@
-![Image](https://github.com/user-attachments/assets/c8860825-2705-472a-8b9a-05a866762a51)
-
 # Tech Stack
 
 #### Programming languages & frameworks:
@@ -10,7 +8,7 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=30> <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height=30> <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoColor=white" height=30> <img alt="Static Badge" src="https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" height=30>
 
-![Image](https://github.com/user-attachments/assets/830f5cd1-02d4-4ae3-84f2-a727dbd73743)
+---
 
 #### Softwares & tools:
 
