@@ -16,6 +16,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white&logoSize=auto&style=for-the-badge" height=30> 
 <img alt="Static Badge" src="https://img.shields.io/badge/Android_Studio-brightgreen?logo=androidstudio&logoColor=white&style=for-the-badge" height=30>
 ![Git](	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+<img alt="Static Badge" src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" height=30>
 
 # Stats
 
