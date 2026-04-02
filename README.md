@@ -1,7 +1,6 @@
 
 <p align="center">
   <img width="615" height="123" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/882b3d4e-52be-4ae4-97d3-c7e3082f08c2" />
-  <img src="https://github.com/user-attachments/assets/1aab216c-487b-4ad8-9c6f-e52449f32245" alt="banner" width="428" height="114">
 </p>
 
 # About Me
