@@ -3,7 +3,8 @@
   <img width="615" height="123" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/882b3d4e-52be-4ae4-97d3-c7e3082f08c2" />
 </p>
 
-# About Me
+---
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f4a95112-92d8-4915-a263-da34c8a26474" width="60" alt="radio" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/367eba61-36e5-4c60-856a-1b73038e1647" width="60" alt="pcb" />&nbsp;&nbsp;&nbsp;&nbsp;
