@@ -25,7 +25,7 @@ I'm also interested in the intersection between software and electronics. I some
 
 #### Programming languages:
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?logo=python&logoSize=auto&logoColor=FFFFFF&style=for-the-badge" height=30> <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=30> <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-FFA116?style=for-the-badge&logo=javascript&logoColor=white" height=30>
+<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height=30> <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?logo=python&logoSize=auto&logoColor=FFFFFF&style=for-the-badge" height=30>
 
 #### Softwares & tools:
 
